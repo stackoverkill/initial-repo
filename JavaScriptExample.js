@@ -4,4 +4,4 @@ function greet(name) {
 }
 
 // Call the function
-greet("World"); 
+greet("World update"); 
