@@ -4,4 +4,4 @@ function greet(name) {
 }
 
 // Call the function
-greet("World update"); 
+greet("World update 06-2024"); 
